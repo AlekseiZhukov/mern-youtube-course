@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://cluster0.simim.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "Azhukov MERN",
+  "baseUrl": "http://localhost:5000"
+}
